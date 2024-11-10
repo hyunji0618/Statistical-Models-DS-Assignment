@@ -14,9 +14,9 @@ Contents include:
   - Using OneHotEncoder from sklearn library
   - Using TensorFlow library
 
-Variable Transformations
+### Variable Transformations
 
-Approximation
+### Approximation
 - Quadratic Approximation ~ Quintic Approximation
 
 ## 2. OLS Estimation & Gauss-Markov Theorem
