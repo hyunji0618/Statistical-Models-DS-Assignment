@@ -1,4 +1,4 @@
-# Statistical-Models-DS-Assignment
+# Statistical Models for Data Science
 
 Assignments on UChicago course 'Statistical Models for Data Science', primarily focused on Linear &amp; Logistic Regression and Model Selection.<br>
 Contents include:
