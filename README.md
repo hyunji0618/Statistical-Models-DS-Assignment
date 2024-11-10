@@ -5,7 +5,7 @@ Contents include:
 
 ## 1. Dummy Variables & Quintic Approximation
 
-Dummy Variables in Linear Regression
+### Dummy Variables in Linear Regression
 - Single Dummy Variables
 - Interaction Between Dummy and Continuous Variables
 - Ways of Creating Dummy Variables in Python
