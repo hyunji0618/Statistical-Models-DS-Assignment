@@ -1,8 +1,23 @@
 # Statistical-Models-DS-Assignment
-Assignments on UChicago course 'Statistical Models for Data Science', <br>
-primarily focusing on Linear &amp; Logistic Regression and Model Selection.
+
+Assignments on UChicago course 'Statistical Models for Data Science', primarily focused on Linear &amp; Logistic Regression and Model Selection.<br>
+Contents include:
 
 ## 1. Dummy Variables & Quintic Approximation
+
+Dummy Variables in Linear Regression
+- Single Dummy Variables
+- Interaction Between Dummy and Continuous Variables
+- Ways of Creating Dummy Variables in Python
+  - Manual Creation
+  - Using 'get_dummies' in pandas
+  - Using OneHotEncoder from sklearn library
+  - Using TensorFlow library
+
+Variable Transformations
+
+Approximation
+- Quadratic Approximation ~ Quintic Approximation
 
 ## 2. OLS Estimation & Gauss-Markov Theorem
 
