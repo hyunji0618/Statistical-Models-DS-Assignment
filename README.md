@@ -24,3 +24,5 @@ Contents include:
 ## 3. Linear Regression
 
 ## 4. Robust Linear Regression
+
+## 5. Generalized Linear Models
